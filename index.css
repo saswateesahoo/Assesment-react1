@@ -1,0 +1,18 @@
+ul {
+  list-style: none;
+  padding: 0;
+}
+li {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin-bottom: 8px;
+  border: 1px solid #ccc;
+  padding: 8px;
+}
+button {
+  background-color: #00ff88;
+  color: #fff;
+  border: none;
+  cursor: pointer;
+}
